@@ -1,0 +1,136 @@
+/* .one{
+    width: 1200px;
+    height: 750px;
+    margin-top: 100px;
+
+}
+.container{
+    width: 1200px;
+    margin: 0 auto;
+}
+
+.one-text{
+    margin-left: 100px;
+    color: #000000;
+    font-weight: 600;
+    font-size: 20px;
+    font-family: Roboto;
+}
+.one-item{
+    display: flex;
+gap:50px;
+margin-left: 100px;
+width: 350px;
+height: 200px;
+color: #4A484A;
+font-weight: 600;
+font-size: 10px;
+font-family: Roboto;
+padding-left: 10px;
+}
+.one-item-bir img{
+    width: 200px;
+    height: 200px;
+}   
+.one-item-bir{
+    width: 400px;
+    height:290px;
+    background-color: #F9F9F9;
+}
+.one-item-bir  button{
+    width: 100px;
+    height: 25px;
+    margin-left: 10px;
+    margin-top: 10px;
+    background-color: #B28C54;
+    color: #ffffffff;
+    border: none;
+}
+.one-item-ikki{
+    width: 500px;
+    height:300px;
+    background-color: #F9F9F9;
+}
+.one-item-ikki img{
+    width: 200px;
+    height: 200px;
+} 
+.one-item-ikki  button{
+    width: 150px;
+    height: 25px;
+    margin-left: 10px;
+    margin-top: 10px;
+    background-color: #101525;
+    color: #ffffffff;
+    border: none;
+}
+.one-item-uch{
+    width: 400px;
+    height:290px;
+    background-color: #F9F9F9;
+}
+.one-item-uch img{
+    width: 200px;
+    height: 200px;
+} 
+.one-item-uch  button{
+    width: 100px;
+    height: 25px;
+    margin-left: 10px;
+    margin-top: 10px;
+    background-color: #07AE7A;
+    color: #ffffffff;
+    border: none;
+}
+.one-item-tor{
+    width: 400px;
+    height:290px;
+    background-color: #F9F9F9;
+}
+.one-item-tor img{
+    width: 200px;
+    height: 200px;
+} 
+.one-item-tor  button{
+    width: 100px;
+    height: 25px;
+    margin-left: 10px;
+    margin-top: 10px;
+    background-color: #0072A4;
+    color: #ffffffff;
+    border: none;
+}
+.one-item-besh{
+    width: 400px;
+    height:290px;
+    background-color: #F9F9F9;
+   
+}
+.one-item-besh img{
+    width: 200px;
+    height: 200px;
+} 
+
+.one-item-besh  button{
+    width: 100px;
+    height: 25px;
+    margin-left: 10px;
+    margin-top: 10px;
+    background-color: #07AE7A;
+    color: #ffffffff;
+    border: none;
+}
+
+.two-item{
+    display: flex;
+gap:50px;
+margin-left: 100px;
+margin-top: 150px;
+width: 400px;
+height: 200px;
+color: #4A484A;
+font-weight: 600;
+font-size: 10px;
+font-family: Roboto;
+padding-left: 10px;
+} */
